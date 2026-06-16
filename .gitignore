@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jekyll
+.jekyll-metadata
+_site/
+.sass-cache/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
+
+# Node (if using any)
+node_modules/
+npm-debug.log
+
+# Build output
+dist/
+build/
+
+# Misc
+*.log
+*.tmp

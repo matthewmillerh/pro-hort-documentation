@@ -1,0 +1,22 @@
+title: Pro-Hort Documentation
+description: Complete documentation for Pro-Hort Dashboard, Admin, and Server
+baseurl: "/pro-hort-documentation"
+url: "https://yourusername.github.io"
+theme: jekyll-theme-cayman
+
+# Navigation
+navigation:
+  - title: Home
+    url: /
+  - title: Dashboard
+    url: /docs/dashboard/
+  - title: Admin
+    url: /docs/admin/
+  - title: Server
+    url: /docs/server/
+
+# Jekyll settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
